@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjetoMobileEAD_IFSP3</string>
+    <string name="titulo_app">Sistema Cadastral de Pessoa Física</string>
+    <string name="cadastro">Cadastrar Pessoas</string>
+    <string name="consulta">Consultar Pessoas Cadastradas</string>
+    <string name="gravar">Gravar Registros</string>
+    <string name="desenvolvedor">Desenvolvido por Ruan Silva. Versão 1.2</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="idade">Idade</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="txtEdtText"></string>
+    <string name="apagar">Apagar Registro</string>
+    <string name="registros">Registros</string>
+    <string name="sair">Sair</string>
+</resources>
